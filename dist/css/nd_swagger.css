@@ -1,0 +1,17 @@
+.swagger-section #header {
+	background-color: #002B5C;
+	border-top: thick solid #BBA242;
+  	border-bottom: thick solid #BBA242;
+}
+
+.swagger-section #header form#api_selector .input a#explore {
+	background-color: #BBA242;
+}
+
+.swagger-section #header form#api_selector .input a#explore:hover {
+	background-color: #BBA242;	
+}
+
+.swagger-section .swagger-ui-wrap a {
+	color: #002B5C;
+}
